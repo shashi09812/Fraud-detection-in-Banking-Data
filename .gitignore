@@ -1,0 +1,5 @@
+.gemini/
+__pycache__/
+*.tmp
+~$*
+*.bat
